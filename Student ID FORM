@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Student ID Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+  <form action="method" = "ID Information">
+      <H3 style="color:green;">Student Name</H3>
+      Last Name<input type="text" name="Lname" size="20" maxlength="10"><br>
+      Middle Name<input type="text" name="Mname" size="8" maxlength="2"><br>
+      First Name<input type="text" name="Fname" size="20" maxlength="10"><br>
+      <br>
+      <H3 style="color:green;">ID Number</H3>
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <select name="ID no.">
+        <option selected="selected">0</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+      </select>
+      
+      <H3 style="color:green;">Student Year and Course</H3>
+          <select name=Year">
+          <option selected="selected">1st</option>
+          <option>1st</option>
+          <option>2nd</option>
+          <option>3rd</option>
+          <option>4th</option>
+          </select>
+          <br>
+          Course: <input type="text" name="Course" size="20" maxlength="50">
+          <br>
+          Major: <input type="text" name="Major" size="20" maxlength="50">
+          <br>
+          <br>
+        <input type="Submit" name="Submit"> 
+    
+  </form>
+  </body>
+</html>
